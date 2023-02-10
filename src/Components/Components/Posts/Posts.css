@@ -1,0 +1,13 @@
+.post {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.post__list{
+    width: 200px;
+    height: 100px;
+    padding: 50px;
+    list-style: none;
+    font-family: comfortaa;
+}

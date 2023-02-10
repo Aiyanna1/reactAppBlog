@@ -1,0 +1,20 @@
+.write {
+    margin-top: 200px;
+}
+
+
+.write__input {
+    font-size: 20px;
+    font-family: comfortaa;
+    padding: 20px;
+    width: 70vw;
+
+}
+
+.write__submit {
+    background-color: lightpink;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
